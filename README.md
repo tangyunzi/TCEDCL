@@ -10,7 +10,7 @@ _Last update: 5/25/2023_
 - simcse 0.4 
 
 ### File description
-1.`Unsuper_train.txt` is used to train an unsupervised contrastive learning models to generate the model file used in our project. The model is named `my-unsup-simcse-bert-base-uncased`.
+1.`unsuper_train.txt` is used to train an unsupervised contrastive learning models to generate the model file used in our project. The model is named `my-unsup-simcse-bert-base-uncased`.
 The unsupervised contrastive learning model is an unsupervised contrastive learning method used in the SimCSE model.  The link to SimCSE is https://github.com/princeton-nlp/SimCSE.
 
 2.`finetune.py`  file is used for fine-tuning the model.
