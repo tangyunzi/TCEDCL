@@ -1,4 +1,3 @@
-# Trigger-free Cybersecurity Event Detection Based on Contrastive Learning
 _Last update: 5/25/2023_  
 
 
